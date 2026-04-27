@@ -15,7 +15,7 @@ employees are at high risk of leaving.
 | Pandas/NumPy | Data manipulation |
 
 ## 📊 Dashboard Preview
-![Dashboard](Screenshot 2026-04-27 191552.png)
+(https://github.com/nikhilyadav156/AttriSense/blob/main/Images/Screenshot%202026-04-27%20191552.png)
 
 ## 🔍 Key Insights
 - Overall attrition rate is **16.1%**
