@@ -1,4 +1,4 @@
-# 🏢 HR Employee Attrition Analytics
+# 🏢 Attrisense - HR Employee Attrition Analytics
 
 ## 📌 Problem Statement
 A company is losing employees without understanding why or who will leave next.
